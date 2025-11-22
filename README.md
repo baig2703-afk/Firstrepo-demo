@@ -1,4 +1,4 @@
 # Firstrepo-demo
 This is my first Git Repository
 <br>
-Author - Farhan mirza
+Author - Farhan Mirza
